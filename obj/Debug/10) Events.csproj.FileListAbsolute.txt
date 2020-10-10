@@ -1,0 +1,6 @@
+F:\ITStep\2 курс\C#\Класна робота\10) Events\bin\Debug\10) Events.exe.config
+F:\ITStep\2 курс\C#\Класна робота\10) Events\bin\Debug\10) Events.exe
+F:\ITStep\2 курс\C#\Класна робота\10) Events\bin\Debug\10) Events.pdb
+F:\ITStep\2 курс\C#\Класна робота\10) Events\obj\Debug\10) Events.csprojAssemblyReference.cache
+F:\ITStep\2 курс\C#\Класна робота\10) Events\obj\Debug\10) Events.exe
+F:\ITStep\2 курс\C#\Класна робота\10) Events\obj\Debug\10) Events.pdb
